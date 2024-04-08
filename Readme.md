@@ -4,7 +4,7 @@
 
 | 回数 | 日付         | 内容 | 資料ページ | 
 |---|------------|------|---| 
-| 1 | 2024年 | Processingの使い方 |  | 
+| 1 | 2024年 | Processingの使い方 | https://github.com/keita-n-ac/Processing-Python/blob/main/lec1.md  | 
 
 ### 演習解答例
 - 次回講義開始前にはアップロード予定
