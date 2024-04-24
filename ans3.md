@@ -64,9 +64,31 @@ def draw():
    - 1つ目の円は左上から右下に移動する
    - 2つ目の円は右上から左下に移動する
 ```python
+x1 = 0
+y1 = 0
+x2 = 0
+y2 = 0
 
+def setup():
+    size(600, 600)
 
+def draw():
+    global x1, y1, x2, y2
+    background(255, 255, 255)
+    strokeWeight(4)
+    fill(0, 0, 255)
+    ellipse(x1, y1, 30, 30)
+    x1 += 1
+    x1 = x1 % (width + 1)
+    y1 += 1
+    y1 = y1 % (height + 1)    
 
+    fill(255, 255, 0)
+    ellipse(x2, y2, 30, 30)
+    x2 -= 1
+    x2 = x2 % (width + 1)
+    y2 += 1
+    y2 = y2 % (height + 1)
 ```
 5. アニメーションの速度を変えるにはどうしたらよいか考えなさい
     - 更新値を大きくすれば良い
