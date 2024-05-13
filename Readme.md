@@ -9,7 +9,7 @@
 | 3 | 2024年4月23日 | アニメーションの基礎 | https://github.com/keita-n-ac/Processing-Python/blob/main/lec3.md | 
 | 4 | 2024年4月30日 | マウスインタラクション | https://github.com/keita-n-ac/Processing-Python/blob/main/lec4.md | 
 | 5 | 2024年5月7日 | 条件分岐（基礎） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec5.md | 
-| 6 | 2024年5月14日 | 条件分岐（応用） |  | 
+| 6 | 2024年5月14日 | 条件分岐（応用） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec6.md | 
 | 7 | 2024年5月21日 | 繰り返し処理（基礎） |  | 
 | 8 | 2024年5月28日 | 繰り返し処理（応用） |  | 
 
