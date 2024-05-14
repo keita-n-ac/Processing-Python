@@ -51,20 +51,20 @@ def draw():
 ```
 
 ```python
-direction = 1
+speed = 3
 x = 0
 def setup():
     size(600, 600)
 
 def draw():
-    global x, direction
+    global x, speed
     background(255, 255, 255)
     fill(255, 0, 255)
     strokeWeight(5)
     ellipse(x, height/2, 50, 50)
-    x += (direction * 3)
+    x += speed
     if x < 0 or x > width:
-        direction *= -1
+        speed *= -1
 ```
 
 ### mousePressed変数
