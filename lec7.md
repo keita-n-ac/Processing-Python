@@ -149,11 +149,11 @@ def draw():
     strokeWeight(2)
     fill(0, 255, 255)
     ellipse(mouseX, mouseY, 30, 30)
-    for i in range(3):
-        ellipse(mouseX+i*30, mouseY, 30, 30)
-        ellipse(mouseX-i*30, mouseY, 30, 30)
-        ellipse(mouseX, mouseY+i*30, 30, 30)
-        ellipse(mouseX, mouseY-i*30, 30, 30)
+    for i in range(2):
+        ellipse(mouseX-(i+1)*30, mouseY, 30, 30)
+        ellipse(mouseX, mouseY-(i+1)*30, 30, 30)
+        ellipse(mouseX+(i+1)*30, mouseY, 30, 30)
+        ellipse(mouseX, mouseY+(i+1)*30, 30, 30)
 ```
 
 ### 練習問題
