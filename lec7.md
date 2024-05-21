@@ -108,7 +108,7 @@ for i in range(3, 7):
 # サンプルプログラム
 size(600, 600)
 
-background(255)
+background(255, 255, 255)
 strokeWeight(4)
 
 # 横線をずらしながら5本引く
