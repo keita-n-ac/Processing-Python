@@ -151,9 +151,9 @@ def draw():
     for i in range(10):
         for j in range(10):
             if (i + j + k) % 2 == 1:
-                fill(255)
+                fill(255, 255, 255)
             else:
-                fill(0)
+                fill(0, 0, 0)
             rect(j*60, i*60, 60, 60)
     k = k + 1
 ```
