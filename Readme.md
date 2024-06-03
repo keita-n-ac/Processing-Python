@@ -13,8 +13,8 @@
 | 7 | 2024年5月21日 | 繰り返し処理（基礎） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec7.md | 
 | 8 | 2024年5月28日 | 繰り返し処理（応用1） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec8.md | 
 | 9 | 2024年6月4日 | 繰り返し処理（応用2） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec9.md | 
-| 10 | 2024年6月11日 | 乱数 |  | 
-| 11 | 2024年6月18日 | リスト |  | 
+| 10 | 2024年6月11日 | 乱数・リスト（基礎） |  | 
+| 11 | 2024年6月18日 | リスト（応用） |  | 
 | 12 | 2024年6月25日 | プログラムにおける関数 |  | 
 | 13 | 2024年 | 三角関数（基礎） |  | 
 | 14 | 2024年 | 三角関数（応用） |  | 
