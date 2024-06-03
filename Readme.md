@@ -12,7 +12,7 @@
 | 6 | 2024年5月14日 | 条件分岐（応用） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec6.md | 
 | 7 | 2024年5月21日 | 繰り返し処理（基礎） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec7.md | 
 | 8 | 2024年5月28日 | 繰り返し処理（応用1） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec8.md | 
-| 9 | 2024年6月4日 | 繰り返し処理（応用2） |  | 
+| 9 | 2024年6月4日 | 繰り返し処理（応用2） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec9.md | 
 | 10 | 2024年6月11日 | 乱数 |  | 
 | 11 | 2024年6月18日 | リスト |  | 
 | 12 | 2024年6月25日 | プログラムにおける関数 |  | 
