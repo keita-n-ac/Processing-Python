@@ -94,7 +94,7 @@ def draw():
     noStroke()
     for i in range(10):
         for j in range(10):
-            if k == 10 - j:
+            if k == 9 - j:
                 fill(255, 255, 255)
             else:
                 fill(0, 0, 0)
