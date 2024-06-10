@@ -1,6 +1,6 @@
 # 第9回目 練習問題 解答例
 ## 練習問題
-- 1   
+1.   
 ```python
 size(660, 660)
 colorMode(HSB, 360, 100, 100)
@@ -11,7 +11,7 @@ for i in range(11):
         rect(j*60, i*60, 60, 60)
 ```
 
-- 2-A
+2-A.
 ```python
 k = 0
 def setup():
@@ -32,7 +32,7 @@ def draw():
     k = (k + 1) % 10
 ```
 
-- 2-B
+2-B.
 ```python
 k = 0
 def setup():
@@ -53,7 +53,7 @@ def draw():
     k = (k + 1) % 10
 ```
 
-- 3
+3.
 ```python
 k = 0
 def setup():
@@ -75,7 +75,7 @@ def draw():
     k = (k + 1) % 20
 ```
 
-- 4
+4.
 ```python
 size(600, 600)
 colorMode(HSB, 360, 100, 100)
@@ -84,11 +84,10 @@ strokeWeight(2)
 for i in range(10):
     for j in range(10):
         for k in range(5):
-            stroke(60*k, 100, 100)
             ellipse(30+j*60, 30+i*60, 60-12*k, 60-12*k)
 ```
 
-- 5
+5.
 ```python
 size(600, 600)
 colorMode(HSB, 360, 100, 100)
