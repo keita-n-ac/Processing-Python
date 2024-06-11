@@ -28,7 +28,7 @@
 | 回数 | 日付         | 資料ページ | 
 |---|------------|------| 
 | 1 | 2024年5月7日 | https://github.com/keita-n-ac/Processing-Python/blob/main/report1.md | 
-| 2 | 2024年6月11日 |  | 
+| 2 | 2024年6月11日 | https://github.com/keita-n-ac/Processing-Python/blob/main/report2.md | 
 | 3 | 2024年7月9日 |  | 
 
 ### 演習解答例
