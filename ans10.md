@@ -54,7 +54,7 @@ def draw():
 ```
 
 3.
-````python
+```python
 speed = 3
 x = 0
 def setup():
