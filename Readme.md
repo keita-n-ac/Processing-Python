@@ -16,10 +16,10 @@
 | 9 | 2024年6月4日 | 繰り返し処理（応用2） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec9.md | 
 | 10 | 2024年6月11日 | 乱数・リスト（基礎） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec10.md | 
 | 11 | 2024年6月18日 | リスト（応用） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec11.md | 
-| 12 | 2024年6月25日 | 三角関数（基礎）  |  | 
+| 12 | 2024年6月25日 | 三角関数（基礎）  | https://github.com/keita-n-ac/Processing-Python/blob/main/lec12.md | 
 | 13 | 2024年7月2日 | 三角関数（応用） |  | 
 | 14 | 2024年7月9日 | まとめ |  |
-| 15 | 2024年7月16日 | 休講予定日 | 
+| 15 | 2024年7月16日 | 休講日 | 
 | 16 | 2024年7月30日 | テスト | テストなので無し | 
 
 ### レポート
