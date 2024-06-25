@@ -283,6 +283,33 @@ def draw():
     d = (d+1) % 360
 ```
 
+```python
+# backgroundを適切に配置し，軌跡を書く
+d = 0
+
+def setup():
+    size(600, 600)
+    colorMode(HSB, 360, 100, 100)
+    background(0, 0, 100)
+
+def draw():
+    global d
+    r = 200
+    cX = width/2  # 中心の座標x
+    cY = height/2 # 中心の座標y
+    x = cX + r * cos(radians(d))
+    y = cY + r * sin(radians(d))
+                
+    strokeWeight(30)
+    stroke(0, 100, 100)
+    point(x, y)
+
+    d = d + 1
+    if d == 360:
+        d = 0
+        background(0, 0, 100)
+```
+
 ### 練習問題
 - サンプルプログラムを利用して，各問を満たすプログラムを作成しなさい
 1. 五芒星を出力するプログラム
