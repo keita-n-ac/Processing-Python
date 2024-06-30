@@ -139,7 +139,7 @@ def draw():
     stroke(d, 100, 100)
     point(x, y)
 
-    d = (d+1) % 360
+    d = (d + 1) % 360
 ```
 
 5.
@@ -200,5 +200,5 @@ def draw():
     y = cY + r * sin(radians(d+180))
     point(x, y)
 
-    d = (d+1)%360
+    d = (d + 1) % 360
 ```
