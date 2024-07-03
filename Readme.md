@@ -53,7 +53,7 @@
 | 10 | 2024年6月11日  | https://github.com/keita-n-ac/Processing-Python/blob/main/ans10.md | 
 | 11 | 2024年6月18日  | https://github.com/keita-n-ac/Processing-Python/blob/main/ans11.md | 
 | 12 | 2024年6月25日  | https://github.com/keita-n-ac/Processing-Python/blob/main/ans12.md | 
-| 13 | 2024年7月2日 |  | 
+| 13 | 2024年7月2日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans13.md | 
 | 14 | 2024年7月9日 |  | 
 | 15 | 2024年7月16日 | 休講なので無し | 
 | 16 | 2024年7月30日 | テストなので無し | 
