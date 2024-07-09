@@ -23,7 +23,7 @@
 | 11 | 2024年6月18日 | リスト（応用） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec11.md | 
 | 12 | 2024年6月25日 | 三角関数（基礎）  | https://github.com/keita-n-ac/Processing-Python/blob/main/lec12.md | 
 | 13 | 2024年7月2日 | 三角関数（応用） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec13.md | 
-| 14 | 2024年7月9日 | まとめ |  |
+| 14 | 2024年7月9日 | まとめ | https://github.com/keita-n-ac/Processing-Python/blob/main/lec14.md |
 | 15 | 2024年7月16日 | 休講 | 休講なので無し | 
 | 16 | 2024年7月30日 | テスト | テストなので無し | 
 
