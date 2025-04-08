@@ -15,7 +15,7 @@
 
 | 回数 | 日付         | 資料ページ | 
 |---|------------|------| 
-| 1 | 2025年4月8日 | Processingの使い方，RGB色空間 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans1.md  | 
+| 1 | 2025年4月8日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans1.md  | 
 
 ### レポート解答例
 | 回数 | 日付         | 資料ページ | 
