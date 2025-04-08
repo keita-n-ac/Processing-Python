@@ -4,7 +4,8 @@
   
 | 回数 | 日付         | 内容 | 資料ページ | 
 |---|------------|------|---| 
-| 1 | 2025年4月8日 | Processingの使い方 | https://github.com/keita-n-ac/Processing-Python/blob/main/lec1.md  | 
+| 1 | 2025年4月8日 | Processingの使い方，RGB色空間 | https://github.com/keita-n-ac/Processing-Python/blob/main/lec1.md  | 
+| 2 | 2025年4月15日 | 変数，HSB色空間 | https://github.com/keita-n-ac/Processing-Python/blob/main/lec2.md  | 
 
 ### レポート
 - 締め切り後に解答例をアップロード予定
@@ -14,7 +15,7 @@
 
 | 回数 | 日付         | 資料ページ | 
 |---|------------|------| 
-| 1 | 2024年4月8日 |  | 
+| 1 | 2025年4月8日 | Processingの使い方，RGB色空間 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans1.md  | 
 
 ### レポート解答例
 | 回数 | 日付         | 資料ページ | 
