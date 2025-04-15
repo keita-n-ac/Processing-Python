@@ -30,7 +30,7 @@ print(height)
      - 例: 変数```ABC```と変数```abc```は別の変数として扱われる
    - 予約語（Pythonの文法で定義されている名前）は使用不可
      - ```if```，```for```，```and``` など
-   - Processingの特別語は使用できるが，変更は不可
+   - Processingの特別語は使用できるが，別の値の代入は不可
      - ```width```，```height``` など
 
 ```python
