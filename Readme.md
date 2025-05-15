@@ -8,6 +8,7 @@
 | 2 | 2025年4月15日 | 変数，HSB色空間 | https://github.com/keita-n-ac/Processing-Python/blob/main/lec2.md  | 
 | 3 | 2025年4月22日 | Processingによるアニメーション | https://github.com/keita-n-ac/Processing-Python/blob/main/lec3.md  | 
 | 4 | 2025年5月13日 | Processingによるインタラクション | https://github.com/keita-n-ac/Processing-Python/blob/main/lec4.md  | 
+| 5 | 2025年5月20日 | 条件分岐によるアニメーション（基礎編） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec5.md  | 
 
 ### レポート
 - 締め切り後に解答例をアップロード予定
@@ -20,6 +21,7 @@
 | 1 | 2025年4月8日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans1.md  | 
 | 2 | 2025年4月15日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans2.md  | 
 | 3 | 2025年4月22日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans3.md  | 
+| 4 | 2025年5月13日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans4.md  | 
 
 ### レポート解答例
 | 回数 | 日付         | 資料ページ | 
