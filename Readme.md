@@ -23,7 +23,7 @@
 | 3 | 2025年4月22日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans3.md  | 
 | 4 | 2025年5月13日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans4.md  | 
 
-### レポート解答例
+### レポート解答
 | 回数 | 日付         | 資料ページ | 
 |---|------------|------| 
 | 1 | 2025年5月20日 | https://github.com/keita-n-ac/Processing-Python/blob/main/2025-repo1.md | 
