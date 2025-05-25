@@ -9,6 +9,7 @@
 | 3 | 2025年4月22日 | Processingによるアニメーション | https://github.com/keita-n-ac/Processing-Python/blob/main/lec3.md  | 
 | 4 | 2025年5月13日 | Processingによるインタラクション | https://github.com/keita-n-ac/Processing-Python/blob/main/lec4.md  | 
 | 5 | 2025年5月20日 | 条件分岐によるアニメーション（基礎編） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec5.md  | 
+| 6 | 2025年5月27日 | 条件分岐によるアニメーション（応用編） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec6.md  | 
 
 ### レポート
 - 締め切り後に解答例をアップロード予定
@@ -22,6 +23,7 @@
 | 2 | 2025年4月15日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans2.md  | 
 | 3 | 2025年4月22日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans3.md  | 
 | 4 | 2025年5月13日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans4.md  | 
+| 5 | 2025年5月20日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans5.md  | 
 
 ### レポート解答
 | 回数 | 日付         | 資料ページ | 
