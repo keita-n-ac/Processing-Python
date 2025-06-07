@@ -11,9 +11,12 @@
 | 5 | 2025年5月20日 | 条件分岐によるアニメーション（基礎編） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec5.md  | 
 | 6 | 2025年5月27日 | 条件分岐によるアニメーション（応用編） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec6.md  | 
 | 7 | 2025年6月3日 | 繰り返し処理によるアニメーション（基礎編） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec7.md  | 
+| 8 | 2025年6月10日 | 繰り返し処理によるアニメーション（応用編） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec8.md  | 
 
-### レポート
-- 締め切り後に解答例をアップロード予定
+### レポート問題
+| 回数 | 日付         | 資料ページ | 
+|---|------------|------| 
+| 1 | 2025年5月20日 | https://github.com/keita-n-ac/Processing-Python/blob/main/2025-repo1.md | 
 
 ### 演習解答例
 - 次回講義開始前にはアップロード予定
@@ -26,11 +29,12 @@
 | 4 | 2025年5月13日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans4.md  | 
 | 5 | 2025年5月20日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans5.md  | 
 | 6 | 2025年5月27日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans6.md  | 
+| 7 | 2025年6月3日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans7.md  | 
 
-### レポート問題
+### レポート問題解答例
 | 回数 | 日付         | 資料ページ | 
 |---|------------|------| 
-| 1 | 2025年5月20日 | https://github.com/keita-n-ac/Processing-Python/blob/main/2025-repo1.md | 
+| 1 | 2025年5月20日 |  | 
 
 #### 注意事項
 - 1週で相当進むので，わからないところが早急に質問すること
