@@ -19,6 +19,7 @@
 | 回数 | 日付         | 資料ページ | 
 |---|------------|------| 
 | 1 | 2025年5月20日 | https://github.com/keita-n-ac/Processing-Python/blob/main/2025-repo1.md | 
+| 2 | 2025年6月24日 | https://github.com/keita-n-ac/Processing-Python/blob/main/2025-repo2.md | 
 
 ### 演習解答例
 - 次回講義開始前にはアップロード予定
