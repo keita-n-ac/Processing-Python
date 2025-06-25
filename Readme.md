@@ -14,7 +14,7 @@
 | 8 | 2025年6月10日 | 繰り返し処理によるアニメーション（応用編） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec8.md  | 
 | 9 | 2025年6月17日 | 繰り返し処理によるアニメーション（発展編） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec9.md  | 
 | 10 | 2025年6月24日 | 乱数・リスト（基礎編） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec10.md  | 
-| 11 | 2025年7月1日 | 乱数・リスト（発展編） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec11.md  | 
+| 11 | 2025年7月1日 | 乱数・リスト（応用編） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec11.md  | 
 
 ### レポート問題
 | 回数 | 日付         | 資料ページ | 
@@ -37,7 +37,6 @@
 | 8 | 2025年6月10日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans8.md  | 
 | 9 | 2025年6月17日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans9.md  | 
 | 10 | 2025年6月24日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans10.md  | 
-
 
 
 ### レポート問題解答例
