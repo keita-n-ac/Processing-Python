@@ -47,6 +47,7 @@
 | 回数 | 日付         | 資料ページ | 
 |---|------------|------| 
 | 1 | 2025年5月20日 | https://github.com/keita-n-ac/Processing-Python/blob/main/2025-repo1-ans.md  | 
+| 2 | 2025年6月24日 | https://github.com/keita-n-ac/Processing-Python/blob/main/2025-repo2-ans.md  | 
 
 #### 注意事項
 - 1週で相当進むので，わからないところが早急に質問すること
