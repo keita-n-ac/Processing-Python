@@ -17,12 +17,15 @@
 | 11 | 2025年7月1日 | 乱数・リスト（応用編） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec11.md  | 
 | 12 | 2025年7月8日 | 三角関数（基礎編） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec12.md  | 
 | 13 | 2025年7月15日 | 三角関数（応用編） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec13.md  | 
+| 14 | 2025年7月22日 | これまでの復習 | https://github.com/keita-n-ac/Processing-Python/blob/main/lec14.md  | 
+| 15 | 2025年7月29日 | 試験 | 試験のため無し  | 
 
 ### レポート問題
 | 回数 | 日付         | 資料ページ | 
 |---|------------|------| 
 | 1 | 2025年5月20日 | https://github.com/keita-n-ac/Processing-Python/blob/main/2025-repo1.md | 
 | 2 | 2025年6月24日 | https://github.com/keita-n-ac/Processing-Python/blob/main/2025-repo2.md | 
+| 3 | 2025年7月22日 |  | 
 
 ### 演習解答例
 - 次回講義開始前にはアップロード予定
@@ -41,6 +44,7 @@
 | 10 | 2025年6月24日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans10.md  | 
 | 11 | 2025年7月1日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans11.md  | 
 | 12 | 2025年7月8日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans12.md  | 
+| 13 | 2025年7月15日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans13.md  | 
 
 
 ### レポート問題解答例
@@ -48,6 +52,7 @@
 |---|------------|------| 
 | 1 | 2025年5月20日 | https://github.com/keita-n-ac/Processing-Python/blob/main/2025-repo1-ans.md  | 
 | 2 | 2025年6月24日 | https://github.com/keita-n-ac/Processing-Python/blob/main/2025-repo2-ans.md  | 
+| 3 | 2025年7月22日 |  | 
 
 #### 注意事項
 - 1週で相当進むので，わからないところが早急に質問すること
