@@ -18,7 +18,7 @@
 | 12 | 2025年7月8日 | 三角関数（基礎編） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec12.md  | 
 | 13 | 2025年7月15日 | 三角関数（応用編） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec13.md  | 
 | 14 | 2025年7月22日 | これまでの復習 | https://github.com/keita-n-ac/Processing-Python/blob/main/lec14.md  | 
-| 15 | 2025年7月29日 | 試験 | 試験のため無し  | 
+| 15 | 2025年7月29日 | 試験 | 試験に関して: https://github.com/keita-n-ac/Processing-Python/blob/main/aboutTest.md  | 
 
 ### レポート問題
 | 回数 | 日付         | 資料ページ | 
