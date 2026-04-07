@@ -4,8 +4,8 @@
   
 | 回数 | 日付         | 内容 | 資料ページ | 
 |---|------------|------|---| 
-| 1 | 2026年4月7日 | Processingの使い方，RGB色空間 | https://github.com/keita-n-ac/Processing-Python/blob/main/lec1.md  | 
-| 2 | 2026年4月14日 | Pythonプログラミングの基礎 |   | 
+| 1 | 2026年4月7日 | Processingの使い方，RGB色空間 | https://github.com/keita-n-ac/Processing-Python/blob/main/lec1.md | 
+| 2 | 2026年4月14日 | Pythonプログラミングの基礎 | https://github.com/keita-n-ac/Processing-Python/blob/main/lec2.md | 
 | 3 | 2026年4月21日 | アニメーション |   | 
 | 4 | 2026年4月28日 | インタラクション |   | 
 | 5 | 2026年5月12日 | 条件分岐（基礎） |   | 
@@ -25,7 +25,8 @@
 
 | 回数 | 日付         | 資料ページ | 
 |---|------------|------| 
-| 1 | |  | 
+| 1 | 2026年4月7日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans1.md | 
+| 2 | 2026年4月14日 |  | 
 
 
 ### レポート問題解答例
