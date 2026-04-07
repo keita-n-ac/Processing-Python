@@ -137,12 +137,12 @@ stroke(r, g, b)
 
 - 塗りつぶし色設定
 ```python
-stroke(r, g, b)
+fill(r, g, b)
 ```
 
 - 背景色設定
 ```python
-stroke(r, g, b)
+background(r, g, b)
 ```
 
 #### RGBカラー
