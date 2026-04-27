@@ -7,7 +7,7 @@
 | 1 | 2026年4月7日 | Processingの使い方，RGB色空間 | https://github.com/keita-n-ac/Processing-Python/blob/main/lec1.md | 
 | 2 | 2026年4月14日 | Pythonプログラミングの基礎 | https://github.com/keita-n-ac/Processing-Python/blob/main/lec2.md | 
 | 3 | 2026年4月21日 | アニメーション | https://github.com/keita-n-ac/Processing-Python/blob/main/lec3.md | 
-| 4 | 2026年4月28日 | インタラクション |   | 
+| 4 | 2026年4月28日 | インタラクション | https://github.com/keita-n-ac/Processing-Python/blob/main/lec4.md | 
 | 5 | 2026年5月12日 | 条件分岐（基礎） |   | 
 | 6 | 2026年5月19日 | 条件分岐（応用） |   | 
 | 7 | 2026年5月26日 | 繰り返し処理（基礎） |   | 
@@ -34,7 +34,7 @@
 |---|------------|------| 
 | 1 | 2026年4月7日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans1.md | 
 | 2 | 2026年4月14日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans2.md | 
-| 3 | 2026年4月21日 |  | 
+| 3 | 2026年4月21日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans3.md | 
 | 4 | 2026年4月28日 |  | 
 | 5 | 2026年5月12日 |  | 
 
