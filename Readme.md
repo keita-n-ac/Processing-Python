@@ -8,7 +8,7 @@
 | 2 | 2026年4月14日 | Pythonプログラミングの基礎 | https://github.com/keita-n-ac/Processing-Python/blob/main/lec2.md | 
 | 3 | 2026年4月21日 | アニメーション | https://github.com/keita-n-ac/Processing-Python/blob/main/lec3.md | 
 | 4 | 2026年4月28日 | インタラクション | https://github.com/keita-n-ac/Processing-Python/blob/main/lec4.md | 
-| 5 | 2026年5月12日 | 条件分岐（基礎） |   | 
+| 5 | 2026年5月12日 | 条件分岐（基礎） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec5.md  | 
 | 6 | 2026年5月19日 | 条件分岐（応用） |   | 
 | 7 | 2026年5月26日 | 繰り返し処理（基礎） |   | 
 | 8 | 2026年6月2日 | 繰り返し処理（応用） |   | 
@@ -25,7 +25,7 @@
 ### レポート問題
 | 回数 | 日付         | 資料ページ | 
 |---|------------|------| 
-| 1 |  |  | 
+| 1 | 2026年5月12日 |  | 
 
 ### 演習解答例
 - 次回講義開始前にはアップロード予定
@@ -35,13 +35,16 @@
 | 1 | 2026年4月7日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans1.md | 
 | 2 | 2026年4月14日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans2.md | 
 | 3 | 2026年4月21日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans3.md | 
-| 4 | 2026年4月28日 |  | 
+| 4 | 2026年4月28日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans4.md | 
 | 5 | 2026年5月12日 |  | 
+| 6 | 2026年5月19日 |  | 
+| 7 | 2026年5月26日 |  | 
+| 8 | 2026年6月2日 |  | 
 
 ### レポート問題解答例
 | 回数 | 日付         | 資料ページ | 
 |---|------------|------| 
-| 1 |  |  | 
+| 1 | 2026年5月12日 |  | 
 
 #### 注意事項
 - 1週で相当進むので，わからないところが早急に質問すること
