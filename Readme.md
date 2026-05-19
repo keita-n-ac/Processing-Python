@@ -10,7 +10,7 @@
 | 4 | 2026年4月28日 | インタラクション | https://github.com/keita-n-ac/Processing-Python/blob/main/lec4.md | 
 | 5 | 2026年5月12日 | 条件分岐（基礎） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec5.md  | 
 | 6 | 2026年5月19日 | 条件分岐（応用） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec6.md  | 
-| 7 | 2026年5月26日 | 繰り返し処理（基礎） |   | 
+| 7 | 2026年5月26日 | 繰り返し処理（基礎） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec7.md  | 
 | 8 | 2026年6月2日 | 繰り返し処理（応用） |   | 
 | 9 | 2026年6月9日 | 繰り返し処理（発展） |   | 
 | 10 | 2026年6月16日 |  |   | 
@@ -37,7 +37,7 @@
 | 3 | 2026年4月21日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans3.md | 
 | 4 | 2026年4月28日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans4.md | 
 | 5 | 2026年5月12日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans5.md | 
-| 6 | 2026年5月19日 |  | 
+| 6 | 2026年5月19日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans6.md | 
 | 7 | 2026年5月26日 |  | 
 | 8 | 2026年6月2日 |  | 
 
