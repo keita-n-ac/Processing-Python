@@ -13,7 +13,7 @@
 | 7 | 2026年5月26日 | 繰り返し処理（基礎） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec7.md  | 
 | 8 | 2026年6月2日 | 繰り返し処理（応用） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec8.md | 
 | 9 | 2026年6月9日 | 繰り返し処理（発展） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec9.md  | 
-| 10 | 2026年6月16日 | 乱数・リスト（基礎） |   | 
+| 10 | 2026年6月16日 | 乱数・リスト（基礎） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec10.md  | 
 | 11 | 2026年6月23日 | リスト（応用） |   | 
 | 12 | 2026年6月30日 | 休講予定 | - | 
 | 13 | 2026年7月7日 | 三角関数（基礎） |   | 
@@ -26,7 +26,7 @@
 | 回数 | 日付         | 資料ページ | 
 |---|------------|------| 
 | 1 | 2026年5月12日 | https://github.com/keita-n-ac/Processing-Python/blob/main/2026-repo1.md | 
-| 2 | 2026年　月　日 |  | 
+| 2 | 2026年　月　日 | https://github.com/keita-n-ac/Processing-Python/blob/main/2026-repo2.md | 
 | 3 | 2026年　月　日 |  | 
 
 ### 演習解答例
@@ -42,7 +42,7 @@
 | 6 | 2026年5月19日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans6.md | 
 | 7 | 2026年5月26日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans7.md | 
 | 8 | 2026年6月2日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans8.md | 
-| 9 | 2026年6月9日 |  | 
+| 9 | 2026年6月9日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans9.md | 
 | 10 | 2026年6月16日 |  | 
 | 11 | 2026年6月23日 |  | 
 
