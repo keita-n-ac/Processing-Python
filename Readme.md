@@ -26,7 +26,7 @@
 | 回数 | 日付         | 資料ページ | 
 |---|------------|------| 
 | 1 | 2026年5月12日 | https://github.com/keita-n-ac/Processing-Python/blob/main/2026-repo1.md | 
-| 2 | 2026年　月　日 | https://github.com/keita-n-ac/Processing-Python/blob/main/2026-repo2.md | 
+| 2 | 2026年6月16日 | https://github.com/keita-n-ac/Processing-Python/blob/main/2026-repo2.md | 
 | 3 | 2026年　月　日 |  | 
 
 ### 演習解答例
