@@ -19,7 +19,7 @@ def draw():
 
 2. 緑色の円が対角線上に移動するアニメーション（右上から左下に移動する）
 ```python
-x = 0
+x = 600
 y = 0
 
 def setup():
@@ -66,7 +66,7 @@ def draw():
 ```python
 x1 = 0
 y1 = 0
-x2 = 0
+x2 = 600
 y2 = 0
 
 def setup():
@@ -97,7 +97,7 @@ def draw():
 ```python
 x1 = 0
 y1 = 0
-x2 = 0
+x2 = 600
 y2 = 0
 
 def setup():
