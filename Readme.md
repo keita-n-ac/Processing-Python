@@ -27,7 +27,7 @@
 |---|------------|------| 
 | 1 | 2026年5月12日 | https://github.com/keita-n-ac/Processing-Python/blob/main/2026-repo1.md | 
 | 2 | 2026年6月16日 | https://github.com/keita-n-ac/Processing-Python/blob/main/2026-repo2.md | 
-| 3 | 2026年7月14日 |  | 
+| 3 | 2026年7月28日 |  | 
 
 ### 演習解答例
 - 次回講義開始前にはアップロード予定
@@ -58,7 +58,7 @@
 |---|------------|------| 
 | 1 | 2026年5月12日 | https://github.com/keita-n-ac/Processing-Python/blob/main/2026-repo1-ans.md | 
 | 2 | 2026年6月16日 |  | 
-| 3 | 2026年7月14日 |  | 
+| 3 | 2026年7月28日 |  | 
 
 
 #### 注意事項
