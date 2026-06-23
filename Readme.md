@@ -16,7 +16,7 @@
 | 10 | 2026年6月16日 | 乱数・リスト（基礎） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec10.md  | 
 | 11 | 2026年6月23日 | リスト（応用） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec11.md  | 
 | 12 | 2026年6月30日 | 休講 | なし | 
-| 13 | 2026年7月7日 | 三角関数（基礎） |   | 
+| 13 | 2026年7月7日 | 三角関数（基礎） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec12.md  | 
 | 14 | 2026年7月14日 | 三角関数（応用） |   | 
 | 15 | 2026年7月28日 | まとめ（これまでの復習） |   | 
 | 16 | 2026年8月4日 | テスト |   | 
@@ -44,7 +44,7 @@
 | 8 | 2026年6月2日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans8.md | 
 | 9 | 2026年6月9日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans9.md | 
 | 10 | 2026年6月16日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans10.md | 
-| 11 | 2026年6月23日 |  | 
+| 11 | 2026年6月23日 | https://github.com/keita-n-ac/Processing-Python/blob/main/ans11.md | 
 | 12 | 2026年6月30日 | 休講のためなし | 
 | 13 | 2026年7月7日 |  | 
 | 14 | 2026年7月14日 |  | 
