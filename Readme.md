@@ -19,7 +19,7 @@
 | 13 | 2026年7月7日 | 三角関数（基礎） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec12.md  | 
 | 14 | 2026年7月14日 | 三角関数（応用） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec13.md  | 
 | 15 | 2026年7月28日 | まとめ（これまでの復習） | https://github.com/keita-n-ac/Processing-Python/blob/main/lec14.md   | 
-| 16 | 2026年8月4日 | テスト |   | 
+| 16 | 2026年8月4日 | テスト | https://github.com/keita-n-ac/Processing-Python/blob/main/aboutTest.md  | 
 
 
 ### レポート問題
